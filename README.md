@@ -13,6 +13,6 @@ I Know So Far:
 
 ---
 
-My Goal Main:
+My Main Goal:
 
 > To become a confident frontend developer, build a portfolio;
